@@ -31,6 +31,10 @@
       <span style="font-size: 1.3em; margin-right: 12px;">🌊</span>
       <strong>Torres</strong>
     </li>
+    <li style="background: #f7fafc; margin-bottom: 14px; padding: 16px 20px; border-radius: 10px; box-shadow: 0 2px 8px rgba(45,92,136,0.07); display: flex; align-items: center;">
+      <span style="font-size: 1.3em; margin-right: 12px;">🌊</span>
+      <strong>Campinas do Sul</strong>
+    </li>
   </ul>
 
   <p style="text-align: center; color: #4a6fa5; margin-top: 28px; font-size: 1.1em;">
